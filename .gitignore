@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+config.yml
+node_modules/
+prepros-6.config
+prepros.config
+context.txt
