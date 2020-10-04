@@ -91,7 +91,7 @@ section {
   background-color: #5982a0;
 }
 
-/* .progress {
+.progress {
   position: fixed;
   top: 0;
   left: 0;
@@ -99,4 +99,4 @@ section {
   height: 10px;
   background-color: #333333;
   z-index: 1;
-} */
+}
